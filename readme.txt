@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git is not password.
 Creating a new brach is quick.
 Creating a new brach is quick and simple.
+Creating a new brach is dev.
