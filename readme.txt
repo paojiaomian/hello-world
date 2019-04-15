@@ -5,3 +5,4 @@ Git is not password.
 Creating a new brach is quick.
 Creating a new brach is quick and simple.
 Creating a new brach is dev.
+Git stash feature1.
